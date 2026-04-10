@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "url": "https://cdn.jsdelivr.net/gh/lexianfeng/pipfitting@main/PipeFitting.apk",
+  "modelUrl": "https://cdn.jsdelivr.net/gh/lexianfeng/pipfitting@main/best.onnx",
+  "note": "2026-04-11 更新"
+}
